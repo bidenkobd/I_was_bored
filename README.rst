@@ -4,7 +4,7 @@ How to use
 
 This is simple extension for chrome, created to delete junk on sides of FB feed
 
-* download 'extansion' folder
+* download 'extension' folder
 * go to `chrome://extensions/ <chrome://extensions/>`_ page
 
 .. image:: docs/1.png
@@ -13,4 +13,4 @@ This is simple extension for chrome, created to delete junk on sides of FB feed
 
 .. image:: docs/2.png
 
-* click "Load unpacked" button and chose 'expansion' folder
+* click "Load unpacked" button and chose 'extension' folder
