@@ -10,9 +10,9 @@ window.onload = function() {
 setTimeout(function() {
 	element1.parentElement.removeChild(element1);
 	element2.parentElement.removeChild(element2); 
-  element3.parentElement.removeChild(element3);
-  element4.parentElement.removeChild(element4);
+  	element3.parentElement.removeChild(element3);
+ 	element4.parentElement.removeChild(element4);
 	element5.parentElement.removeChild(element5);	
 	element6.parentElement.removeChild(element6);	
-}, delayInMilliseconds)
- };
+			}, delayInMilliseconds)
+			   };
