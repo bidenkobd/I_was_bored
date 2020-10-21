@@ -15,5 +15,9 @@ This is simple extension for chrome, created to delete junk on sides of FB feed
 
 * click "Load unpacked" button and chose 'extension' folder
 
+Intended view
+
+.. image:: docs/2.png
+
 
 TODO: upload to chrome store
