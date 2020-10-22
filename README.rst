@@ -3,7 +3,7 @@ This is simple extension for chrome, created to delete junk on sides of FB feed
 How to use
 ------------
 
-* download 'extension' folder
+* download and unpack 'extension' folder
 * go to `chrome://extensions/ <chrome://extensions/>`_ page
 
 .. image:: docs/1.png
