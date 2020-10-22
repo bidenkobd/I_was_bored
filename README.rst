@@ -20,4 +20,8 @@ Intended view
 .. image:: docs/3.png
 
 
-TODO: upload to chrome store
+TODO: 
+------------
+
+* upload to chrome store
+* implement a UI for selecting items to remove
