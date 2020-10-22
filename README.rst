@@ -1,8 +1,7 @@
+This is simple extension for chrome, created to delete junk on sides of FB feed
 
 How to use
 ------------
-
-This is simple extension for chrome, created to delete junk on sides of FB feed
 
 * download 'extension' folder
 * go to `chrome://extensions/ <chrome://extensions/>`_ page
