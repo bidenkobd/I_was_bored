@@ -12,7 +12,7 @@ How to use
 
 .. image:: docs/2.png
 
-* click "Load unpacked" button and chose 'extension' folder
+* click "Load unpacked" button and choose 'extension' folder
 
 Intended view
 
