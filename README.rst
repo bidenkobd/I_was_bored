@@ -8,7 +8,7 @@ How to use
 
 .. image:: docs/1.png
 
-* enabel developer mode 
+* enable developer mode 
 
 .. image:: docs/2.png
 
